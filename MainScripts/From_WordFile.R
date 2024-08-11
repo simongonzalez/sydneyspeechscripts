@@ -1,4 +1,4 @@
-#Author: Simon Gonzalez
+#Author: Simon Gonzalez, James Grama, Catherine Travis
 #email: simondariogonzalez@gmail.com
 #Project: Sydney Speaks
 #Travis, Catherine E., James Grama, Simon Gonzalez, Benjamin Purser and Cale Johnstone. 2023. Sydney Speaks Corpus. ARC Centre of Excellence for the Dynamics of Language, Australian National University. https://dx.doi.org/10.25911/m03c-yz22
